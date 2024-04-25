@@ -1,0 +1,14 @@
+matplotlib
+plotly
+scikit-learn
+azure-ai-formrecognizer
+azure-cognitiveservices-speech
+azure-ai-textanalytics
+python-dotenv
+huggingface_hub
+accelerate>=0.16.0,<1
+transformers[torch]
+safetensors
+tensorflow
+datasets
+evaluate
