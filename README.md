@@ -55,7 +55,7 @@ With the following software and hardware list you can run all code files present
 
 | Chapter | Software required    | Link to the software    | Hardware specifications    | OS required    |
 | :---:  | :---: | :---: |:---: | :---: |
-| 2-14 | Vitis  | [Download](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vitis.html)   | Suitable |  Windows/Linux  |
+| 4-11 | Python  | [Download](https://www.python.org/downloads/)   | Suitable |  Windows/Linux/MacOS |
 
 ## Know more on the Discord server <img alt="Coding" height="25" width="32"  src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif">
 
