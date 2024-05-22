@@ -39,13 +39,30 @@ You can run the notebooks directly from the table below:
 | Chapter | Colab | Kaggle | 
 | :-------- | :-------- | :------- |
 | | | |
-**Chapter 4: Prompt Engineering**
 
+**Chapter 4: Prompt Engineering**
 | <ul><li>🛠Prompt_Engineering</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Building-LLM-Powered-Applications/blob/main/Chapter%204%20-%20Prompt%20Engineering.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/PacktPublishing/Building-LLM-Powered-Applications/blob/main/Chapter%204%20-%20Prompt%20Engineering.ipynb) | 
 
 **Chapter 5: Embedding LLMs within your Applications**
-
 | <ul><li>🛠Embedding_LLMs_within_your_Applications</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/PacktPublishing/Building-LLM-Powered-Applications/blob/main/Chapter%205%20-%20Embedding%20LLMs%20within%20your%20Applications.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/PacktPublishing/Building-LLM-Powered-Applications/blob/main/Chapter%205%20-%20Embedding%20LLMs%20within%20your%20Applications.ipynb) |
+
+**Chapter 6: Building Conversational Applications**
+| <ul><li>🛠Embedding_LLMs_within_your_Applications</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Building-LLM-Powered-Applications/blob/main/Chapter%206%20-%20Building%20conversational%20apps.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/PacktPublishing/Building-LLM-Powered-Applications/blob/main/Chapter%206%20-%20Building%20conversational%20apps.ipynb) |
+
+**Chapter 7: Search and Recommendation Engines with LLMs**
+| <ul><li>🛠Embedding_LLMs_within_your_Applications</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Building-LLM-Powered-Applications/blob/main/Chapter%207%20-%20Building%20recommendation%20systems%20with%20LLMs.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/PacktPublishing/Building-LLM-Powered-Applications/blob/main/Chapter%207%20-%20Building%20recommendation%20systems%20with%20LLMs.ipynb) |
+
+**Chapter 8: Using LLMs with Structured Data**
+| <ul><li>🛠Embedding_LLMs_within_your_Applications</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Building-LLM-Powered-Applications/blob/main/Chapter%208%20-%20LLMs%20with%20structured%20data.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/PacktPublishing/Building-LLM-Powered-Applications/blob/main/Chapter%208%20-%20LLMs%20with%20structured%20data.ipynb) |
+
+**Chapter 9: Working with Code**
+| <ul><li>🛠Embedding_LLMs_within_your_Applications</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Building-LLM-Powered-Applications/blob/main/Chapter%209-Working%20with%20code.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/PacktPublishing/Building-LLM-Powered-Applications/blob/main/Chapter%209-Working%20with%20code.ipynb) |
+
+**Chapter 10: Building Multimodal Applications with LLMs**
+| <ul><li>🛠Embedding_LLMs_within_your_Applications</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Building-LLM-Powered-Applications/blob/main/Chapter%2010%20-%20Building%20multi-modal%20agents.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/PacktPublishing/Building-LLM-Powered-Applications/blob/main/Chapter%2010%20-%20Building%20multi-modal%20agents.ipynb) |
+
+**Chapter 11: Fine-Tuning Large Language Models**
+| <ul><li>🛠Embedding_LLMs_within_your_Applications</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Building-LLM-Powered-Applications/blob/main/Chapter%2011%20-%20Fine%20tuning%20LLMs.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/PacktPublishing/Building-LLM-Powered-Applications/blob/main/Chapter%2011%20-%20Fine%20tuning%20LLMs.ipynb) |
 
 > If you feel this book is for you, get your [copy](https://www.amazon.in/Building-LLM-Apps-Intelligent-Language-ebook/dp/B0CMD2W6Q5/ref=sr_1_1?crid=2LL0C0LMSKPM6&dib=eyJ2IjoiMSJ9.DEphvN2ScVuQzpjIGvwjew.XSR1MjKXZ__UKVISKZIx67efPb1cpj9WniOhpxtqz98&dib_tag=se&keywords=9781835462317&qid=1716360537&sprefix=9781835462317%2Caps%2C209&sr=8-1) today! <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
 
