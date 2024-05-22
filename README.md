@@ -34,6 +34,15 @@ The book provides a solid theoretical foundation of what LLMs are, their archite
 12. Responsible AI
 13. Emerging Trends and Innovations
 
+### Platforms
+You can run the notebooks directly from the table below:
+
+| Chapter | Colab | Kaggle | 
+| :-------- | :-------- | :------- |
+| | | |
+**Chapter 4: Prompt Engineering**
+
+| <ul><li>🛠O_1_and_Accelerators.ipynb</li><li>ChatGPT_Plus_writes_and_explains_AI.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Building-LLM-Powered-Applications/blob/main/Chapter%204%20-%20Prompt%20Engineering.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/PacktPublishing/Building-LLM-Powered-Applications/blob/main/Chapter%204%20-%20Prompt%20Engineering.ipynb) | 
 
 > If you feel this book is for you, get your [copy](https://www.amazon.in/Building-LLM-Apps-Intelligent-Language-ebook/dp/B0CMD2W6Q5/ref=sr_1_1?crid=2LL0C0LMSKPM6&dib=eyJ2IjoiMSJ9.DEphvN2ScVuQzpjIGvwjew.XSR1MjKXZ__UKVISKZIx67efPb1cpj9WniOhpxtqz98&dib_tag=se&keywords=9781835462317&qid=1716360537&sprefix=9781835462317%2Caps%2C209&sr=8-1) today! <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
 
