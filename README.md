@@ -36,31 +36,23 @@ The book provides a solid theoretical foundation of what LLMs are, their archite
 ### Platforms
 You can run the notebooks directly from the table below:
 
-| Chapter | Colab | Kaggle | 
+| Chapters | Colab | Kaggle | 
 | :-------- | :-------- | :------- |
 | | | |
-
 **Chapter 4: Prompt Engineering**
 | <ul><li>🛠Prompt_Engineering</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Building-LLM-Powered-Applications/blob/main/Chapter%204%20-%20Prompt%20Engineering.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/PacktPublishing/Building-LLM-Powered-Applications/blob/main/Chapter%204%20-%20Prompt%20Engineering.ipynb) | 
-
 **Chapter 5: Embedding LLMs within your Applications**
 | <ul><li>🛠Embedding_LLMs_within_your_Applications</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/PacktPublishing/Building-LLM-Powered-Applications/blob/main/Chapter%205%20-%20Embedding%20LLMs%20within%20your%20Applications.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/PacktPublishing/Building-LLM-Powered-Applications/blob/main/Chapter%205%20-%20Embedding%20LLMs%20within%20your%20Applications.ipynb) |
-
 **Chapter 6: Building Conversational Applications**
 | <ul><li>🛠Embedding_LLMs_within_your_Applications</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Building-LLM-Powered-Applications/blob/main/Chapter%206%20-%20Building%20conversational%20apps.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/PacktPublishing/Building-LLM-Powered-Applications/blob/main/Chapter%206%20-%20Building%20conversational%20apps.ipynb) |
-
 **Chapter 7: Search and Recommendation Engines with LLMs**
 | <ul><li>🛠Embedding_LLMs_within_your_Applications</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Building-LLM-Powered-Applications/blob/main/Chapter%207%20-%20Building%20recommendation%20systems%20with%20LLMs.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/PacktPublishing/Building-LLM-Powered-Applications/blob/main/Chapter%207%20-%20Building%20recommendation%20systems%20with%20LLMs.ipynb) |
-
 **Chapter 8: Using LLMs with Structured Data**
 | <ul><li>🛠Embedding_LLMs_within_your_Applications</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Building-LLM-Powered-Applications/blob/main/Chapter%208%20-%20LLMs%20with%20structured%20data.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/PacktPublishing/Building-LLM-Powered-Applications/blob/main/Chapter%208%20-%20LLMs%20with%20structured%20data.ipynb) |
-
 **Chapter 9: Working with Code**
 | <ul><li>🛠Embedding_LLMs_within_your_Applications</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Building-LLM-Powered-Applications/blob/main/Chapter%209-Working%20with%20code.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/PacktPublishing/Building-LLM-Powered-Applications/blob/main/Chapter%209-Working%20with%20code.ipynb) |
-
 **Chapter 10: Building Multimodal Applications with LLMs**
 | <ul><li>🛠Embedding_LLMs_within_your_Applications</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Building-LLM-Powered-Applications/blob/main/Chapter%2010%20-%20Building%20multi-modal%20agents.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/PacktPublishing/Building-LLM-Powered-Applications/blob/main/Chapter%2010%20-%20Building%20multi-modal%20agents.ipynb) |
-
 **Chapter 11: Fine-Tuning Large Language Models**
 | <ul><li>🛠Embedding_LLMs_within_your_Applications</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PacktPublishing/Building-LLM-Powered-Applications/blob/main/Chapter%2011%20-%20Fine%20tuning%20LLMs.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/PacktPublishing/Building-LLM-Powered-Applications/blob/main/Chapter%2011%20-%20Fine%20tuning%20LLMs.ipynb) |
 
@@ -81,12 +73,12 @@ With the following software and hardware list you can run all code files present
 
 You can get more engaged on the discord server for more latest updates and discussions in the community at [Discord](https://packt.link/llm)
 
-## Download a free PDF <img alt="Coding" height="25" width="40" src="https://emergency.com.au/wp-content/uploads/2021/03/free.gif">
+## Download a Free PDF <img alt="Coding" height="25" width="40" src="https://emergency.com.au/wp-content/uploads/2021/03/free.gif">
 
 _If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost. Simply click on the link to claim your free PDF._
-[Free-PDF](https://packt.link/free-ebook/9781805125594) <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
+[Free-PDF](https://packt.link/free-ebook/9781835462317) <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book at [Colour Images](https://packt.link/gbp/9781835462317) <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book at [Color Images](https://packt.link/gbp/9781835462317) <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
 
 
 ## Get to Know the Author
