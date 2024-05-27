@@ -71,8 +71,8 @@ With the following software and hardware list you can run all code files present
 
 ## Errata
 
-* Page 8, Chapter 1 : P(“table”), P(“chain”), and P(“roof”) are the prior probabilities for each candidate word, based on the language model’s knowledge of the frequency of these words in the training data.
-Correction: P(“table”), P(“chair”), and P(“roof”) are the prior probabilities for each candidate word, based on the language model’s knowledge of the frequency of these words in the training data.
+* Page 8, Chapter 1 : **P(“table”), P(“chain”), and P(“roof”) are the prior probabilities for each candidate word, based on the language model’s knowledge of the frequency of these words in the training data.**
+_Correction:_ **P(“table”), P(“chair”), and P(“roof”) are the prior probabilities for each candidate word, based on the language model’s knowledge of the frequency of these words in the training data.**
 
 ## Know more on the Discord server <img alt="Coding" height="25" width="32"  src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif">
 
