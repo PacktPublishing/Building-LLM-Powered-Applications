@@ -69,6 +69,11 @@ With the following software and hardware list you can run all code files present
 | :---:  | :---: | :---: |:---: | :---: |
 | 4-11 | Python  | [Download](https://www.python.org/downloads/)   | Suitable |  Windows/Linux/MacOS |
 
+## Errata
+
+* Page 8, Chapter 1 : P(“table”), P(“chain”), and P(“roof”) are the prior probabilities for each candidate word, based on the language model’s knowledge of the frequency of these words in the training data.
+Correction: P(“table”), P(“chair”), and P(“roof”) are the prior probabilities for each candidate word, based on the language model’s knowledge of the frequency of these words in the training data.
+
 ## Know more on the Discord server <img alt="Coding" height="25" width="32"  src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif">
 
 You can get more engaged on the discord server for more latest updates and discussions in the community at [Discord](https://packt.link/llm)
