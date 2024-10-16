@@ -110,12 +110,16 @@ _Correction:_ **P(“table”), P(“chair”), and P(“roof”) are the prior 
 
 
 <details open> 
-  <summary><h2>Get to know Contributors</h2></summary>
+  <summary><h2>Get to know Author</h2></summary>
 
 _Valentina Alto_ is a Data Science Graduate who joined Microsoft Italy in 2020 as an Azure solution specialist. Since 2022, she has been focusing on data and AI workloads within the manufacturing and pharmaceutical industries. She has been working closely with system integrators on customer projects to deploy cloud architecture with a focus on Modern Data Platforms and AI-powered applications.<br>
 In June 2024, she moved to Microsoft Dubai as an AI App Tech Architect to focus more on AI-driven projects in the Middle East.<br>
 Since commencing her academic journey, she has been writing tech articles on statistics, machine learning, deep learning, and AI in various publications. She has authored several books on machine learning and large language models.
 
+</details
+<details open> 
+  <summary><h2>Community Contributor</h2></summary>
+   
 _Vandervoort Patrick_, is an analyst programmer, and primarily programs in Delphi, Python, C, C++, and C#. He also works on install, configure on Linux servers (Ubuntu and Suse), and he is interested in everything related to Artificial Intelligence.
 
 </details>
