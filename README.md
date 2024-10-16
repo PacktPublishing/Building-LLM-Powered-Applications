@@ -116,7 +116,8 @@ _Valentina Alto_ is a Data Science Graduate who joined Microsoft Italy in 2020 a
 In June 2024, she moved to Microsoft Dubai as an AI App Tech Architect to focus more on AI-driven projects in the Middle East.<br>
 Since commencing her academic journey, she has been writing tech articles on statistics, machine learning, deep learning, and AI in various publications. She has authored several books on machine learning and large language models.
 
-</details
+</details>
+   
 <details open> 
   <summary><h2>Community Contributor</h2></summary>
    
@@ -124,7 +125,7 @@ _Vandervoort Patrick_, is an analyst programmer, and primarily programs in Delph
 
 </details>
 <details> 
-  <summary><h2>Other Related Books</h2></summary>
+<summary><h2>Other Related Books</h2></summary>
 <ul>
 
   <li><a href="https://www.packtpub.com/en-us/product/generative-ai-with-langchain-first-edition/9781835083468">Generative AI with LangChain, First Edition</a></li>
