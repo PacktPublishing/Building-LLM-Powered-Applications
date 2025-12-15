@@ -1,3 +1,5 @@
+<p align='center'><a href='https://www.packtpub.com/en-us/unlock?step=1'><img src='https://static.packt-cdn.com/assets/images/packt+events/finalGH_design_redeem.png'/></a></p>
+
 <h1 align="center">
 Building LLM Powered  Applications, First Edition</h1>
 <p align="center">This is the code repository for <a href ="https://www.packtpub.com/en-us/product/building-llm-powered--applications-first-edition/9781835462317"> Building LLM Powered  Applications, First Edition</a>, published by Packt.
